@@ -1,0 +1,7 @@
+.buttons-container {
+  margin-top: 16px; /* Adds space above the buttons */
+}
+.buttons-container {
+  display: flex;
+  gap: 12px; /* Adjust spacing as needed */
+}
